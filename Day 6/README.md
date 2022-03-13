@@ -1,2 +1,2 @@
-# Day 4
+# Day 6
 Python Functions
