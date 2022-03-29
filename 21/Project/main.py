@@ -5,20 +5,12 @@ from scoreboard import Scoreboard
 import time
 
 
-def initialize_screen():
-    s = Screen()
-    s.screensize(600, 600)
-    s.tracer(0)
-    s.bgcolor("black")
-    s.title("Snake Game 🐍")
-    return s
-
 
 def control():
-    screen.onkey(snake.up, "Up")
-    screen.onkey(snake.down, "Down")
-    screen.onkey(snake.left, "Left")
-    screen.onkey(snake.right, "Right")
+    s.onkey(snake.up, "Up")
+    s.onkey(snake.down, "Down")
+    s.onkey(snake.left, "Left")
+    s.onkey(snake.right, "Right")
 
 
 def check_edge():
@@ -32,7 +24,7 @@ def engine():
     in_game = True
     while in_game:
         time.sleep(0.1)
-        screen.update()
+        s.update()
         snake.move()
 
         if snake.head.distance(food) < 15:
@@ -47,13 +39,17 @@ def engine():
             if snake.head.distance(segnment) < 10:
                 in_game = False
 
+s = Screen()
+s.screensize(600, 600)
+s.tracer(0)
+s.bgcolor("black")
+s.title("Snake Game 🐍")
 
-screen = initialize_screen()
 snake = Snake()
 food = Food()
 score = Scoreboard()
-screen.listen()
+s.listen()
 control()
 engine()
 score.game_over()
-screen.exitonclick()
+s.exitonclick()
