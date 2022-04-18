@@ -1,0 +1,17 @@
+body {
+    background-color: #ffffff   ;
+}
+hr {
+    border-style: dotted none none;
+    border-color: greenyellow;
+    border-width: 5px;
+    width: 10%;
+}
+
+h1, h3 {
+    color: mediumseagreen;
+}
+
+table {
+    border-spacing: 10px;
+}
