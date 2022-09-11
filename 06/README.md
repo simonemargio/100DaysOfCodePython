@@ -1,2 +1,6 @@
-# Day 6
+# Day 06
+
+&nbsp;
+
+### Today's topic 🎯
 Python Functions
