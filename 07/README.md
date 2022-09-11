@@ -1,2 +1,6 @@
-# Day 7
+# Day 07
+
+&nbsp;
+
+### Today's topic 🎯
 Hangman project
