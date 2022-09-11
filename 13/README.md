@@ -1,2 +1,2 @@
 # Day 13
-debugging, find and fix errors.
+Debugging, find and fix errors
