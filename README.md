@@ -62,3 +62,5 @@ Python exercises and examples carried out during the #100DaysOfCode
 | 55  | HTML and url Parsing in Flask |
 | 56  | Rendering HTML/Static files and using website templates |
 | 57  | Templating with Jinja in flask applications |
+| 58  | Think in one line: hashtag generator |
+| 59  | Think in one line: c_ns_r_d str_ngs |
