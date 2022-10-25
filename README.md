@@ -70,3 +70,4 @@ Python exercises and examples carried out during the #100DaysOfCode
 | [63](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/63)  | Use NumPy to delete the second column from a given array and insert the following a column in its place |
 | [64](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/64)  | Use Pandas for merge two data frames using using a specific condition |
 | [65](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/65)  | Generate a random date between given start and end dates |
+| [66](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/66)  | Check if two sets have any elements in common. If yes, display the common elements |
