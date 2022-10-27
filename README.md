@@ -72,3 +72,4 @@ Python exercises and examples carried out during the #100DaysOfCode
 | [65](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/65)  | Generate a random date between given start and end dates |
 | [66](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/66)  | Check if two sets have any elements in common. If yes, display the common elements |
 | [67](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/67)  | Remove all special symbols and punctuation from a string |
+| [68](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/68)  | Generate a random password that meets specific conditions |
