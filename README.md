@@ -75,3 +75,4 @@ Python exercises and examples carried out during the #100DaysOfCode
 | [68](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/68)  | Generate a random password that meets specific conditions |
 | [69](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/69)  | Extend nested list by adding a sublist |
 | [70](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/70)  | Solve the Fibonacci sequence using recursion |
+| [71](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/71)  | Fruit smoothie |
