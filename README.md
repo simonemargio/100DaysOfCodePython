@@ -77,3 +77,4 @@ Python exercises and examples carried out during the #100DaysOfCode
 | [70](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/70)  | Solve the Fibonacci sequence using recursion |
 | [71](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/71)  | Fruit smoothie |
 | [72](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/72)  | Rectangle collision detection |
+| [73](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/73)  | Stack calculator |
