@@ -78,3 +78,4 @@ Python exercises and examples carried out during the #100DaysOfCode
 | [71](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/71)  | Fruit smoothie |
 | [72](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/72)  | Rectangle collision detection |
 | [73](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/73)  | Stack calculator |
+| [74](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/74)  | A text-based program to convert strings into morse code |
