@@ -80,3 +80,4 @@ Python exercises and examples carried out during the #100DaysOfCode
 | [73](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/73)  | Stack calculator |
 | [74](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/74)  | A text-based program to convert strings into morse code |
 | [75](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/75)  | Web foundation: bootstrap |
+| [76](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/76)  | Bootstrap TinDog |
