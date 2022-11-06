@@ -82,3 +82,4 @@ Python exercises and examples carried out during the #100DaysOfCode
 | [75](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/75)  | Web foundation: bootstrap |
 | [76](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/76)  | Bootstrap TinDog |
 | [77](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/77)  | Understanding color theory |
+| [78](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/78)  | Understanding typography and fonts |
