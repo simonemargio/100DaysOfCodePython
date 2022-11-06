@@ -11,7 +11,7 @@ Understanding color theory
 ### Link 😎
 [Color theory](https://en.wikipedia.org/wiki/Color_theory)  
 [Colorhunt](https://colorhunt.co/)  
-[Adobe color wheel](https://color.adobe.com/it/create/color-wheel)  
+[Adobe color wheel](https://color.adobe.com/it/create/color-wheel)
 
 &nbsp;
 
