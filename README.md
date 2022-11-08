@@ -84,3 +84,4 @@ Python exercises and examples carried out during the #100DaysOfCode
 | [77](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/77)  | Understanding color theory |
 | [78](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/78)  | Understanding typography and fonts |
 | [79](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/79)  | Build a text-based version of the Tic Tac Toe game |
+| [80](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/80)  | Watermarking image |
