@@ -87,4 +87,4 @@ Python exercises and examples carried out during the #100DaysOfCode
 | [80](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/80)  | Watermarking image |
 | [81](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/81)  | Balanced binary search tree using an array which elements are sorted in ascending order |
 | [82](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/82)  | Programming polyglot |
-
+| [83](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/83)  | Flipping Bits |
