@@ -89,3 +89,4 @@ Python exercises and examples carried out during the #100DaysOfCode
 | [82](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/82)  | Programming polyglot |
 | [83](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/83)  | Flipping Bits |
 | [84](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/84)  | Crack the pin code |
+| [85](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/85)  | Coffee & Wifi Project: flask, WTForms, bootstrap and csv |
