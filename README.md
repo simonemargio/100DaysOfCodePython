@@ -93,3 +93,4 @@ Python exercises and examples carried out during the #100DaysOfCode
 | [86](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/86)  | Menage attention with effective user interface design as: color, layout, alignment, white space |
 | [87](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/87)  | User experience design |
 | [88](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/88)  | Apply the design rules: basic color theory, typography, user interface and experience design |
+| [89](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/89)  | Building own API with RESTful routing |
