@@ -95,3 +95,4 @@ Python exercises and examples carried out during the #100DaysOfCode
 | [88](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/88)  | Apply the design rules: basic color theory, typography, user interface and experience design |
 | [89](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/89)  | Building own API with RESTful routing |
 | [90](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/90)  | Data exploration with pandas |
+| [91](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/91)  | Authentication with Flask: login and registering users, encryption, salting and hashing with Werkzeug |
