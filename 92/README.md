@@ -3,7 +3,7 @@
 &nbsp;
 
 ### Today's topic 🎯
-Data visualisation with Matplotlib
+Data visualization with Matplotlib
 
 
 &nbsp;
