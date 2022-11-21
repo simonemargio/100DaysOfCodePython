@@ -97,3 +97,4 @@ Python exercises and examples carried out during the #100DaysOfCode
 | [90](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/90)  | Data exploration with pandas |
 | [91](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/91)  | Authentication with Flask: login and registering users, encryption, salting and hashing with Werkzeug |
 | [92](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/92)  | Data visualization with Matplotlib |
+| [93](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/93)  | Aggregate and merge data with Pandas: analyse the LEGO dataset |
