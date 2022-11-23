@@ -99,3 +99,4 @@ Python exercises and examples carried out during the #100DaysOfCode
 | [92](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/92)  | Data visualization with Matplotlib |
 | [93](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/93)  | Aggregate and merge data with Pandas: analyse the LEGO dataset |
 | [94](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/94)  | Google trends data: resampling and visualizing time series |
+| [95](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/95)  | Beautiful Plotly charts and analyzing the Android app store |
