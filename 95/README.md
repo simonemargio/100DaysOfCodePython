@@ -3,7 +3,7 @@
 &nbsp;
 
 ### Today's topic 🎯
-Beautiful Plotly charts and analyzing the Android app store
+Beautiful Plotly charts and analyzing the Android app store 
 
 &nbsp;
 
