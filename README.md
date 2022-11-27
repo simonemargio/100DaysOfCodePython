@@ -103,3 +103,4 @@ Python exercises and examples carried out during the #100DaysOfCode
 | [96](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/96)  | Computation with NumPy and N-Dimensional arrays |
 | [97](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/97)  | Linear regression and data visualization with Seaborn |
 | [98](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/98)  | Analyze the Nobel Prize with Plotly, Matplotlib and Seaborn |
+| [99](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/99)  | The tragic discovery of handwashing: t-tests and distributions |
