@@ -104,4 +104,4 @@ Python exercises and examples carried out during the #100DaysOfCode
 | [097](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/097)  | Linear regression and data visualization with Seaborn |
 | [098](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/098)  | Analyze the Nobel Prize with Plotly, Matplotlib and Seaborn |
 | [099](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/099)  | The tragic discovery of handwashing: t-tests and distributions |
-| [0100](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/0100)  | Capstone project: predict house prices |
+| [100](https://github.com/simonemargio/100DaysOfCode-Python/tree/main/100)  | Capstone project: predict house prices |
